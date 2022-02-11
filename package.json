@@ -1,0 +1,23 @@
+{
+  "name": "opensea-floor-looks-rare",
+  "version": "0.1.1",
+  "description": "Determine the rarity of floor NFTs on OpenSea",
+  "repository": "https://github.com/cawfree/opensea-floor-looks-rare",
+  "author": "Airat Isakov",
+  "private": false,
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js",
+    "debug": "NODE_OPTIONS='--inspect' node src/index.js"
+  },
+  "dependencies": {
+    "chalk": "4.1.2",
+    "console-table-printer": "^2.10.0",
+    "discord.js": "^13.6.0",
+    "node-fetch": "2",
+    "puppeteer": "^13.0.0",
+    "puppeteer-autoscroll-down": "^1.0.0",
+    "puppeteer-core": "^13.0.0",
+    "yargs": "^17.3.0"
+  }
+}

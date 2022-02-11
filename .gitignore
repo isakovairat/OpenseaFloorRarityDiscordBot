@@ -1,0 +1,7 @@
+# Dependency directories
+/node_modules/
+# Idea
+/.idea/
+
+.DS_*
+/yarn.lock
