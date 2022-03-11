@@ -1,8 +1,8 @@
 {
-  "name": "opensea-floor-looks-rare",
-  "version": "0.1.1",
+  "name": "opensea-floor-rarity-discord-bot",
+  "version": "0.1.0",
   "description": "Determine the rarity of floor NFTs on OpenSea",
-  "repository": "https://github.com/cawfree/opensea-floor-looks-rare",
+  "repository": "https://github.com/isakovairat/openseaBot",
   "author": "Airat Isakov",
   "private": false,
   "main": "src/index.js",
